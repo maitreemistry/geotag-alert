@@ -29,13 +29,13 @@ A safety web application enabling **geo-tagged alerts** and **offline reporting*
 ![Alert](alert.png)
 
 ### Offline Report Page
-![Report](report.png)
+![Report](offline_report.png)
 
 ### Offline Reports Dashboard
-![Offline Reports](offline_reports.png)
+![Offline Reports](offline_reports_dashboard.png)
 
 ### Geo-Tagged Alerts Map
-![Dashboard Map](map.png)
+![Dashboard Map](geotag.png)
 
 ---
 
